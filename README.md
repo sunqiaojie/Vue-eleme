@@ -22,10 +22,6 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 
 # Image
-![image](https://github.com/sunqiaojie/MyResources/blob/master/Vue/vue-1.png)
+![image](https://github.com/sunqiaojie/MyResources/blob/master/Vue/vue-1.png)  ![image](https://github.com/sunqiaojie/MyResources/blob/master/Vue/vue-2.png)
 
-![image](https://github.com/sunqiaojie/MyResources/blob/master/Vue/vue-2.png)
-
-![image](https://github.com/sunqiaojie/MyResources/blob/master/Vue/vue-3.png)
-
-![image](https://github.com/sunqiaojie/MyResources/blob/master/Vue/vue-4.png)
+![image](https://github.com/sunqiaojie/MyResources/blob/master/Vue/vue-3.png)  ![image](https://github.com/sunqiaojie/MyResources/blob/master/Vue/vue-4.png)
